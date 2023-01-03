@@ -1,4 +1,4 @@
-module goIMDB
+module github.com/sraz001/goIMDB
 
 go 1.19
 
